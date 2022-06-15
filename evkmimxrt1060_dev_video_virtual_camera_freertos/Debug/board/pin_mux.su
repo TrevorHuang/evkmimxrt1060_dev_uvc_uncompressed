@@ -1,0 +1,7 @@
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_iomuxc.h:1225:20:IOMUXC_SetPinMux	24	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_iomuxc.h:1257:20:IOMUXC_SetPinConfig	24	static
+../board/pin_mux.c:34:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:56:6:BOARD_InitPins	16	static

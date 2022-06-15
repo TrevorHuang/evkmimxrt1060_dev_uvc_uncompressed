@@ -1,0 +1,15 @@
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\CMSIS/core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+D:\MCUXpressoIDE_11.5.0_7232\workspace\evkmimxrt1060_dev_video_virtual_camera_freertos_debug\evkmimxrt1060_dev_video_virtual_camera_freertos\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../source/virtual_camera.c:101:6:USB_OTG1_IRQHandler	8	static
+../source/virtual_camera.c:106:6:USB_OTG2_IRQHandler	8	static
+../source/virtual_camera.c:111:6:USB_DeviceClockInit	16	static
+../source/virtual_camera.c:131:6:USB_DeviceIsrEnable	16	static
+../source/virtual_camera.c:150:13:USB_DeviceVideoPrepareVideoData	24	static
+../source/virtual_camera.c:298:21:USB_DeviceVideoRequest	56	static
+../source/virtual_camera.c:449:21:USB_DeviceVideoCallback	32	static
+../source/virtual_camera.c:492:13:USB_DeviceVideoApplicationSetDefault	16	static
+../source/virtual_camera.c:567:21:USB_DeviceCallback	40	static
+../source/virtual_camera.c:713:13:USB_DeviceApplicationInit	8	static
+../source/virtual_camera.c:751:6:APP_task	16	static
+../source/virtual_camera.c:778:5:main	16	static
